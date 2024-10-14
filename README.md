@@ -1,22 +1,26 @@
-  #                             AWS_CLASS - 2025
+  #                             __AWS_CLASS - 2025__
 # For Online / Offline class / MNC IT_Placements - 9551355178
 * Placement Updates Whatsapp  - https://www.whatsapp.com/catalog/919551355178/?app_absent=0
 * Placement Updates YouTube   - https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK
 * Placement Updates Linkedin  - https://www.linkedin.com/in/cloud-buddy9551355178/
 * Placement Updates Twitter   - https://x.com/CLOUDBUDDY_SANK
 
-# AWS in 30 Days
-Repo includes:-
-* Projects
+# __AWS in 30 Days__
 * Presentations
+* Updated Topics
+* Real-time examples
 * Interview questions
-* Real-time examples.
+* Real-time Projects
 Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
-# Day 1: Introduction to AWS
-You will learn what is private and public cloud. Why companies are moving to the public cloud, and what are the advantages of moving to the cloud?
 
-Also, you will be introduced to the basics of AWS, including the core services and their significance in DevOps practices. Finally, learn how to set up an AWS account and navigate the AWS Management Console.
+# Day 1: Introduction to AWS
+* You will learn what is private and public cloud.
+* Why companies are moving to the public cloud?
+* What are the advantages of moving to the cloud?
+* Basics of AWS
+* Including the core services and their significance in DevOps practices
+* Finally, learn how to set up an AWS account and navigate the AWS Management Console.
 
 # Day 2: IAM (Identity and Access Management)
 You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
