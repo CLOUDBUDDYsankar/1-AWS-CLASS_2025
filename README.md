@@ -80,7 +80,7 @@ Project: You'll set up CloudWatch alarms for critical metrics of an application,
 # Day 17: AWS Lambda
 This day introduces serverless computing with AWS Lambda. You'll learn how to create and deploy serverless functions, trigger them based on events, and leverage Lambda to build scalable and event-driven architectures.
 
-@ Day 18: AWS CloudWatch Events and EventBridge
+# Day 18: AWS CloudWatch Events and EventBridge
 This day focuses on AWS CloudWatch Events and EventBridge, services for event-driven architectures. You'll learn how to create event rules, configure event targets, and build serverless event-driven workflows.
 
 Project: You'll build a serverless event-driven workflow using CloudWatch Events and EventBridge, demonstrating the integration and automation of different AWS services based on events.
@@ -95,43 +95,43 @@ You'll explore AWS ECR, a fully managed container registry for storing and manag
 
 Project: You'll build a CI/CD pipeline that automatically builds, pushes, and deploys Docker images to ECR, ensuring streamlined container image management.
 
-Day 21: AWS ECS (Elastic Container Service)
+# Day 21: AWS ECS (Elastic Container Service)
 This day focuses on AWS ECS, a fully managed container orchestration service. You'll learn how to run and manage containers using ECS, including creating task definitions, managing services, and scaling with auto-scaling capabilities.
 
 Project: You'll deploy a multi-container application using ECS, configure auto-scaling policies, and ensure high availability and efficient resource utilization.
 
-Day 22: AWS EKS (Elastic Kubernetes Service)
+# Day 22: AWS EKS (Elastic Kubernetes Service)
 This day introduces AWS EKS, a fully managed Kubernetes service. You'll learn how to deploy and manage Kubernetes clusters using EKS, including launching worker nodes, configuring networking, and deploying applications using Kubernetes manifests.
 
 Project: You'll deploy a sample application on EKS using Kubernetes manifests, demonstrating the capabilities of running containerized applications on a managed Kubernetes service.
 
-Day 23: AWS Systems Manager
+# Day 23: AWS Systems Manager
 This day focuses on AWS Secrets Manager, a service for storing and managing secrets such as database credentials, API keys, and other sensitive information. You'll learn how to store, retrieve, and rotate secrets securely in your applications.
 
 Project: You'll configure Secrets Manager to store and manage secrets, integrate secret retrieval in an application, and implement secret rotation policies.
 
-Day 24: Create Infrastructure using Terraform
+# Day 24: Create Infrastructure using Terraform
 This day focusses on creating infrastructure using Terraform with real time example.
 
 Project: You'll create a VPC and deploy 2 applications in different availability zones. We will also create a load balancer to balance the load between the instances automatically.
 
-Day 25: AWS CloudTrail and Config
+# Day 25: AWS CloudTrail and Config
 You'll explore AWS CloudTrail and AWS Config, which provide auditing and compliance capabilities. You'll learn how to track API calls using CloudTrail and ensure compliance with AWS Config rules.
 
 Project: You'll configure CloudTrail to log API activities and set up AWS Config rules to enforce compliance policies for your AWS resources.
 
-Day 26: AWS Elastic Load Balancer
+# Day 26: AWS Elastic Load Balancer
 You'll explore AWS Elastic Load Balancer, a service for distributing incoming application traffic across multiple targets. You'll learn how to configure and manage load balancers to ensure high availability, fault tolerance, and scalability.
 
 Project: You'll configure an Elastic Load Balancer for an application, define target groups, and observe the load balancing behavior across instances.
 
-Day 27: 500 AWS interview questions and answers topic wise for interviews.
-This day focuses on learning how to migrate applications to AWS cloud. What are the most popular strategies and tools used to achieve the cloud migration.
+# Day 27: 500 AWS interview questions and answers topic-wise for interviews.
+This day focuses on learning how to migrate applications to the AWS cloud. What are the most popular strategies and tools used to achieve cloud migration?
 
-Day 28: AWS Cloud Migration Strategies and Tools
-This day focuses on learning how to migrate applications to AWS cloud. What are the most popular strategies and tools used to achieve the cloud migration.
+# Day 28: AWS Cloud Migration Strategies and Tools
+This day focuses on learning how to migrate applications to the AWS cloud. What are the most popular strategies and tools used to achieve cloud migration?
 
-Day 29: AWS Best Practices and Job Preparation
-On the final day, you'll review best practices for AWS services, including security, cost optimization and performance.
+# Day 29: AWS Best Practices and Job Preparation
+On the final day, you'll review best practices for AWS services, including security, cost optimization, and performance.
 
-Day 30: AWS Project with RDS
+# Day 30: AWS Project with RDS
