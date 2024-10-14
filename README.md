@@ -1,6 +1,6 @@
-  #         AWS_CLASS - 2025
-# For Online / Offline classes        - 9551355178
-# Complete Placement updates YouTube  - https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK
+  #  AWS_CLASS - 2025
+# For Online / Offline class        - 9551355178
+Complete Placement updates YouTube  - https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK
 
 AWS zero to hero repo for DevOps engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
