@@ -5,8 +5,7 @@
 * Placement Updates Linkedin  - https://www.linkedin.com/in/cloud-buddy9551355178/
 * Placement Updates Twitter   - https://x.com/CLOUDBUDDY_SANK
 
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
+
 
 
 
@@ -18,6 +17,7 @@
 * Real-time Projects
 Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 
 # Day 1: Introduction to AWS
