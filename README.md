@@ -5,7 +5,10 @@
 * Placement Updates Linkedin  - https://www.linkedin.com/in/cloud-buddy9551355178/
 * Placement Updates Twitter   - https://x.com/CLOUDBUDDY_SANK
 
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankarumeash&label=Profile%20views&color=0e75b6&style=flat" alt="sankarumeash" /> </p>
 
 # __AWS 30 Days Program__
 * Presentations
