@@ -5,7 +5,9 @@
 * Placement Updates Linkedin  - https://www.linkedin.com/in/cloud-buddy9551355178/
 * Placement Updates Twitter   - https://x.com/CLOUDBUDDY_SANK
 
-# __AWS in 30 Days__
+
+
+# __AWS 30 Days Program__
 * Presentations
 * Updated Topics
 * Real-time examples
@@ -15,15 +17,15 @@ Each day's class will provide real-time knowledge on AWS services, allowing you 
 
 
 # Day 1: Introduction to AWS
-* You will learn what is private and public cloud.
-* Why companies are moving to the public cloud?
+* You will learn what a private and public cloud is.
+* Why are companies moving to the public cloud?
 * What are the advantages of moving to the cloud?
 * Basics of AWS
 * Including the core services and their significance in DevOps practices
 * Finally, learn how to set up an AWS account and navigate the AWS Management Console.
 
 # Day 2: IAM (Identity and Access Management)
-You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
+You will explore IAM, which manages access to AWS resources. You'll learn how to create IAM users, groups, and roles and how to apply permissions and security best practices to ensure proper access control.
 
 # Day 3: EC2 Instances
 You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
