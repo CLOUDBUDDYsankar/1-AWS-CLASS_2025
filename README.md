@@ -16,6 +16,7 @@
 Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
 
 
+
 # Day 1: Introduction to AWS
 * You will learn what a private and public cloud is.
 * Why are companies moving to the public cloud?
@@ -24,13 +25,23 @@ Each day's class will provide real-time knowledge on AWS services, allowing you 
 * Including the core services and their significance in DevOps practices
 * Finally, learn how to set up an AWS account and navigate the AWS Management Console.
 
+
+
+
 # Day 2: IAM (Identity and Access Management)
 You will explore IAM, which manages access to AWS resources. You'll learn how to create IAM users, groups, and roles and how to apply permissions and security best practices to ensure proper access control.
+
+
+
+
 
 # Day 3: EC2 Instances
 You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
 
 Your First AWS Project: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
+
+
+
 
 # Day 4: AWS Networking (VPC)
 You'll explore AWS networking concepts, with a specific focus on VPC (Virtual Private Cloud). You'll learn how to create and configure VPCs, subnets, and route tables, enabling you to design and manage the network infrastructure for your applications.
