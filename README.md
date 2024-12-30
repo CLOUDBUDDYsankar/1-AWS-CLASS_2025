@@ -2,7 +2,7 @@
 # Learn IT Skills | Online & Offline Classes | MNC Placements | 9551355178
 
 ## Explore Placement Updates Across Platforms
-- **[WhatsApp: Get Real-Time Updates](https://www.whatsapp.com/catalog/919551355178/?app_absent=0)**  
+- **WhatsApp: [Get Real-Time Updates](https://www.whatsapp.com/catalog/919551355178/?app_absent=0)**  
 - **[YouTube: Watch Expert Insights](https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK)**  
 - **[LinkedIn: Connect for Career Opportunities](https://www.linkedin.com/in/cloud-buddy9551355178/)**  
 - **[Twitter (X): Stay Informed with Us](https://x.com/CLOUDBUDDY_SANK)**  
