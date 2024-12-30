@@ -9,13 +9,12 @@
 
 
 # FAST-TRACK AWS CLOUD PROGRAM (30 DAYS)
-Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
-* Presentations
-* Updated Topics
-* Real-time examples
-* Interview questions
-* Real-time Projects
-Each day's class will provide real-time knowledge on AWS services, allowing you to apply what you've learned and gain practical skills in working with AWS in a DevOps context.
+Each session will deliver comprehensive, real-time knowledge of AWS services, enabling you to apply acquired skills and gain hands-on experience utilizing AWS within a DevOps framework.
+* Updated Content
+* Practical Real-Time Examples
+* Interview Preparation Questions
+
+  -----------------------------------------
 
 
 # Day 1: Introduction to AWS
