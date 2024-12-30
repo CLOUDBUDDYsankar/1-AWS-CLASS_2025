@@ -14,10 +14,12 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 * Application of AWS in Real-World Scenarios
 * Thorough Interview Preparation with Expert Guidance
 * Detailed Analysis of Industry-Specific Use Cases
+
   --------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Day 1: Introduction to AWS
+----------------------------
 * You will learn what a private and public cloud is.
 * Why are companies moving to the public cloud?
 * What are the advantages of moving to the cloud?
