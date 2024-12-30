@@ -1,13 +1,14 @@
-  #   AWS FOR BEGINNERS TO EXPERTS - 2025 (UPDATED)
-### LEARN IT SKILLS | ONLINE & OFFLINE CLASSES | MNC PLACEMENTS | CONTACT → 9551355178
+#  AWS FOR BEGINNERS TO EXPERTS - 2025 (UPDATED)
+  
+## LEARN IT SKILLS | ONLINE & OFFLINE CLASSES | MNC PLACEMENTS | CONTACT → 9551355178
 
-# EXPLORE PLACEMENT UPDATES ACROSS PLATFORMS
+#  EXPLORE PLACEMENT UPDATES ACROSS PLATFORMS
 - **WhatsApp   : [Get Real-Time Updates](https://www.whatsapp.com/catalog/919551355178/?app_absent=0)**  
 - **YouTube    : [Watch Expert Insights](https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK)**  
 - **LinkedIn   : [Connect for Career Opportunities](https://www.linkedin.com/in/cloud-buddy9551355178/)**  
 - **Twitter(X) : [Stay Informed with Us](https://x.com/CLOUDBUDDY_SANK)**  
 
-# FAST-TRACK AWS CLOUD PROGRAM (30 DAYS)
+#  FAST-TRACK AWS CLOUD PROGRAM (30 DAYS)
 Each session will deliver comprehensive, real-time knowledge of AWS services, enabling you to apply acquired skills and gain hands-on experience utilizing AWS within a DevOps framework.
 * Comprehensive Practical Training with AWS
 * Up-to-date and Industry-Relevant Course Material
@@ -17,7 +18,7 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 
   --------------------------------------------------------------------------------------------------------------------------------------------
   
-# Day 1: Introduction to AWS
+#  Day 1: Introduction to AWS
 * You will learn what a private and public cloud is.
 * Why are companies moving to the public cloud?
 * What are the advantages of moving to the cloud?
