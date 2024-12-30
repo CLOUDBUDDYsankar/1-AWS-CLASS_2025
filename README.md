@@ -1,10 +1,11 @@
   #   AWS for Beginners to Experts - 2025 ( UPDATED ) 
 # Learn IT Skills | Online & Offline Classes | MNC Placements | 9551355178
 
-* Placement Updates Whatsapp  - https://www.whatsapp.com/catalog/919551355178/?app_absent=0
-* Placement Updates YouTube   - https://youtube.com/@cloudbuddy_sankar?si=TZF9gIFPy-QeuIUK
-* Placement Updates Linkedin  - https://www.linkedin.com/in/cloud-buddy9551355178/
-* Placement Updates Twitter   - https://x.com/CLOUDBUDDY_SANK
+# Stay Connected for Placement Updates
+* WhatsApp: Instant Updates & Notifications
+* YouTube: Exclusive Training & Placement Insights
+* LinkedIn: Professional Networking & Opportunities
+* Twitter (X): Latest News & Career Tips
 
 
 
