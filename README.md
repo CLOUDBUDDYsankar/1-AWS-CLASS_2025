@@ -2,7 +2,7 @@
 # Learn IT Skills | Online & Offline Classes | MNC Placements | 9551355178
 
 # Stay Connected for Placement Updates
-* WhatsApp: Instant Updates & Notifications
+* WhatsApp: "Instant Updates & Notifications"
 * YouTube: Exclusive Training & Placement Insights
 * LinkedIn: Professional Networking & Opportunities
 * Twitter (X): Latest News & Career Tips
