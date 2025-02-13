@@ -1,5 +1,4 @@
-#  AWS FOR BEGINNERS TO EXPERTS - 2025 (UPDATED)
-  
+#  AWS FOR BEGINNERS TO EXPERTS - 2025 (UPDATED)  
 ## LEARN IT SKILLS | ONLINE & OFFLINE CLASSES | MNC PLACEMENTS | CONTACT → 9551355178 
 
 #  EXPLORE PLACEMENT UPDATES ACROSS PLATFORMS
@@ -24,20 +23,81 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 - **KEY GENERATION      : [PUTTY_GEN](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
 - **AUTHENTICATION AGENT: [PAGEANT](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
 - **FILE TRANSFER       : [WIN_SCP](https://winscp.net/eng/download.php#google_vignette)**
-- ** IDE                : [ VSC ](https://code.visualstudio.com/download)**
-- 
+- ** IDE  : [ VSC ](https://code.visualstudio.com/download)**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
-* You will learn what a private and public cloud is.
-* Why are companies moving to the public cloud?
-* What are the advantages of moving to the cloud?
-* Basics of AWS
-* Including the core services and their significance in DevOps practices
-* Finally, learn how to set up an AWS account and navigate the AWS Management Console.
+* WHY CLOUD?
+* WHAT IS CLOUD?
+* SERVICE MODELS?
+* DEPLOYMENT MODELS?
+* CLOUD PROVIDERS & BENEFITS?
+* AWS GLOBAL CLOUD ARCHITECTURE?
+* AWS INTERVIEW THEORY?
+* AWS - SECURITY GROUPS?
+
   
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+# DAY 2: EC2 INSTANCES 
+Today’s focus is Amazon EC2 (Elastic Compute Cloud)—the backbone of cloud computing! 💻☁️
+
+What is EC2?
+Amazon EC2 provides scalable compute capacity in the cloud, allowing you to launch and manage virtual servers (instances) effortlessly.
+
+⚡ KEY FEATURES:
+✅ Elasticity – Scale up/down based on demand
+✅ Multiple Instance Types – Optimized for compute, memory, storage, etc.
+✅ Security – VPC, Security Groups, IAM roles for access control
+✅ Storage Options – EBS (persistent), Instance Store (temporary)
+✅ Auto Scaling – Ensures high availability
+
+🚀 BASIC EC2 WORKFLOW:
+1️⃣ Choose an AMI (Amazon Machine Image)
+2️⃣ Select an Instance Type (t2.micro, m5.large, etc.)
+3️⃣ Configure Instance Details
+4️⃣ Add Storage (EBS, Instance Store)
+5️⃣ Configure Security Group (firewall rules)
+6️⃣ Launch & Connect via SSH/RDP
+
+🔑 EC2 PRICING MODELS:
+💰 On-Demand – Pay as you go (flexible but costly)
+💰 Reserved Instances – 1- or 3-year commitment (cost-effective)
+💰 Spot Instances – Up to 90% cheaper, but can be terminated anytime
+💰 Dedicated Hosts – Physical server reserved for you
+
+🔥 HANDS-ON TASK:
+✅ Launch a free-tier t2.micro instance
+✅ SSH into the instance using .pem key
+✅ Install & run a simple web server (sudo apt update && sudo apt install apache2 -y)
+
+💬 Have you worked with EC2 before? Share your experience below! 👇
+
+#AWS #CloudComputing #EC2 #DevOps #CloudBuddy 🚀
+You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
+
+Your First AWS Project: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Day 2: IAM (Identity and Access Management)
 You will explore IAM, which manages access to AWS resources. You'll learn how to create IAM users, groups, and roles and apply permissions and security best practices to ensure proper access control.
@@ -173,3 +233,166 @@ This day focuses on learning how to migrate applications to the AWS cloud. What 
 On the final day, you'll review best practices for AWS services, including security, cost optimization, and performance.
 
 # Day 30: AWS Project with RDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXAMPLES :----
+
+
+
+
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
