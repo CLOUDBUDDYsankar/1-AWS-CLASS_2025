@@ -20,8 +20,8 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 
 # AWS Course Prerequisites: Required Tools & Software
 
-- **AWS CONSOLE     : [DASHBOARD](https://aws.amazon.com/console/)**
-- **REMOTE SOFTWARE : [LINUX]{https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+- **AWS CONSOLE         : [DASHBOARD](https://aws.amazon.com/console/)**
+- **REMOTE SOFTWARE     : [LINUX](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
   
 #  Day 1: Introduction to AWS
 * You will learn what a private and public cloud is.
