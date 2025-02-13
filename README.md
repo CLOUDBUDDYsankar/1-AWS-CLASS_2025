@@ -16,7 +16,11 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 * Thorough Interview Preparation with Expert Guidance
 * Detailed Analysis of Industry-Specific Use Cases
 
-  --------------------------------------------------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# AWS Course Prerequisites: Required Tools & Software
+
+- **AWS CONSOLE : [DASHBOARD]([https://www.whatsapp.com/catalog/919551355178/?app_absent=0](https://aws.amazon.com/console/))**  
   
 #  Day 1: Introduction to AWS
 * You will learn what a private and public cloud is.
