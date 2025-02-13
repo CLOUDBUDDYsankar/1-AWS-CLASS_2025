@@ -18,10 +18,16 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# AWS Course Prerequisites: Required Tools & Software
-
+# AWS COURSE PREREQUISITES: REQUIRED TOOLS & SOFTWARE
 - **AWS CONSOLE         : [DASHBOARD](https://aws.amazon.com/console/)**
-- **REMOTE SOFTWARE     : [LINUX](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+- **REMOTE SOFTWARE     : [PUTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+- **KEY GENERATION      : [PUTTY_GEN](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+- **AUTHENTICATION AGENT: [PAGEANT](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**
+- **FILE TRANSFER       : [WIN_SCP](https://winscp.net/eng/download.php#google_vignette)**
+- ** IDE                : [ VSC ](https://code.visualstudio.com/download)**
+- 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
 * You will learn what a private and public cloud is.
