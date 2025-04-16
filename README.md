@@ -43,147 +43,35 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 
 # DAY 2: EC2 INSTANCES ( Elastic Compute Cloud )
 Today’s Focus: Amazon EC2 – The Backbone of Cloud Computing! ☁️💻
-Let’s dive into hands-on server creation using various Amazon Machine Images (AMIs) 🔧👇
+
+#  What is EC2?
+* Amazon EC2 provides scalable compute capacity in the cloud, allowing you to launch and manage virtual servers (instances) effortlessly.
+* Perfect for beginners & those aiming to master EC2 server provisioning across multiple OS platforms!
 
 * ✅ 1. Amazon Linux AMI – Server Setup
+  * User name - ec2-user 
 * ✅ 2. Ubuntu Linux AMI – Server Setup
+  * User name - ubuntu 
 * ✅ 3. Red Hat Linux AMI – Server Setup
+  * User name - ec2-user
 * ✅ 4. Windows AMI – Server Setup
-
-📘 Perfect for beginners & those aiming to master EC2 server provisioning across multiple OS platforms!
-
-## ✅ Step 3: Click “Launch Instance”
-Click the **Launch Instance** button to begin setting up your virtual server.
-
----
-
-## ✅ Step 4: Name Your Instance
-Enter a name like `UInstance-AmazonLinux` for easy identification.
-
----
-
-## ✅ Step 5: Choose Amazon Machine Image (AMI)
-Select your OS image:
-- Amazon Linux
-- Ubuntu
-- Red Hat
-- Windows Server
-
----
-
-## ✅ Step 6: Choose Instance Type
-Select **t2.micro** (Free Tier eligible) for basic use cases.
-
----
-
-## ✅ Step 7: Create or Select Key Pair
-- **New User**: Create new key pair → Download the `.pem` file  
-- **Existing User**: Choose an existing key pair  
-**Important:** Keep your `.pem` file safe!
-
----
-
-## ✅ Step 8: Configure Network Settings
-- Choose default VPC and subnet  
-- Create or choose a **Security Group**  
-- Allow the following inbound rules:
-  - SSH (22)
-  - HTTP (80)
-  - HTTPS (443)
-
----
-
-## ✅ Step 9: Add Storage
-Default volume: **8 GB (gp2 SSD)**  
-Increase if needed for your project.
-
----
-
-## ✅ Step 10: Advanced Settings (Optional)
-- Add a **User Data Script** to install software at boot  
-- Attach **IAM Role** if your instance needs to access AWS services (e.g., S3, CloudWatch)
-
----
-
-## ✅ Step 11: Review and Launch
-Review all configurations and click **Launch Instance**.
-
----
-
-## ✅ Step 12: Wait Until Instance is Running
-Go to the **Instances** tab  
-- Instance State: `Running`  
-- Status Check: `2/2 Passed`
-
----
-
-## ✅ Step 13: Connect to Your Instance
-- Click **Connect** → Use **EC2 Instance Connect**  
-OR  
-- Use terminal:
-```bash
-ssh -i "your-key.pem" ec2-user@<Public-IP-Address>
-✅ Step 14: Update OS Packages (Optional)
-bash
-Copy
-Edit
-# Amazon Linux
-sudo yum update -y
-
-# Ubuntu
-sudo apt update && sudo apt upgrade -y
+  * User name - Administrator
+    
+#  What Steps to create an EC2?
+* Step 1: Click “Launch Instance”
+* Step 2: Name / Tags Your Instance
+* Step 3: Choose Amazon Machine Image (AMI)
+* Step 4: Choose Instance Type
+* Step 5: Create or Select Key Pair
+* Step 6: Configure Network Settings
+* Step 7: Add Storage
+* Step 8: Advanced Settings (Optional)
+* Step 9: Select no Instances
+* Step 10: Review and Launch
 
 
 
-
-
-
-
-
-
-What is EC2?
-Amazon EC2 provides scalable compute capacity in the cloud, allowing you to launch and manage virtual servers (instances) effortlessly.
-
-⚡ KEY FEATURES:
-✅ Elasticity – Scale up/down based on demand
-✅ Multiple Instance Types – Optimized for compute, memory, storage, etc.
-✅ Security – VPC, Security Groups, IAM roles for access control
-✅ Storage Options – EBS (persistent), Instance Store (temporary)
-✅ Auto Scaling – Ensures high availability
-
-🚀 BASIC EC2 WORKFLOW:
-1️⃣ Choose an AMI (Amazon Machine Image)
-2️⃣ Select an Instance Type (t2.micro, m5.large, etc.)
-3️⃣ Configure Instance Details
-4️⃣ Add Storage (EBS, Instance Store)
-5️⃣ Configure Security Group (firewall rules)
-6️⃣ Launch & Connect via SSH/RDP
-
-🔑 EC2 PRICING MODELS:
-💰 On-Demand – Pay as you go (flexible but costly)
-💰 Reserved Instances – 1- or 3-year commitment (cost-effective)
-💰 Spot Instances – Up to 90% cheaper, but can be terminated anytime
-💰 Dedicated Hosts – Physical server reserved for you
-
-🔥 HANDS-ON TASK:
-✅ Launch a free-tier t2.micro instance
-✅ SSH into the instance using .pem key
-✅ Install & run a simple web server (sudo apt update && sudo apt install apache2 -y)
-
-💬 Have you worked with EC2 before? Share your experience below! 👇
-
-#AWS #CloudComputing #EC2 #DevOps #CloudBuddy 🚀
-You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
-
-Your First AWS Project: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
-
-
-
-
-
-
-
-
+⚡
 
 
 
