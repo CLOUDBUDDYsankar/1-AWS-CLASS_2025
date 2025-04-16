@@ -47,10 +47,10 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 Today’s Focus: Amazon EC2 – The Backbone of Cloud Computing! ☁️💻
 Let’s dive into hands-on server creation using various Amazon Machine Images (AMIs) 🔧👇
 
-✅ 1. Amazon Linux AMI – Server Setup
-✅ 2. Ubuntu Linux AMI – Server Setup
-✅ 3. Red Hat Linux AMI – Server Setup
-✅ 4. Windows AMI – Server Setup
+* ✅ 1. Amazon Linux AMI – Server Setup
+* ✅ 2. Ubuntu Linux AMI – Server Setup
+* ✅ 3. Red Hat Linux AMI – Server Setup
+* ✅ 4. Windows AMI – Server Setup
 
 📘 Perfect for beginners & those aiming to master EC2 server provisioning across multiple OS platforms!
 
