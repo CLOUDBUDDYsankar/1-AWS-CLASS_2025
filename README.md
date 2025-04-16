@@ -28,16 +28,16 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
-✅ 1. Why Cloud? – Benefits & Business Needs
-✅ 2. What is Cloud? – Cloud Computing Basics
-✅ 3. Service Models – IaaS, PaaS, SaaS Explained
-✅ 4. Deployment Models – Public, Private, Hybrid
-✅ 5. Cloud Providers & Benefits – AWS, Azure, GCP
-✅ 6. AWS Global Cloud Architecture – Regions, AZs & Edge Locations
-✅ 7. AWS Account Creation – Step-by-Step Signup Process
-✅ 8. AWS Class Tools – Core Services Overview
-✅ 9. AWS – Security Groups – Virtual Firewall Basics
-✅ 10. AWS Interview Theory – Key Q&A Prep for Interviews
+* ✅ 1. Why Cloud? – Benefits & Business Needs
+* ✅ 2. What is Cloud? – Cloud Computing Basics
+* ✅ 3. Service Models – IaaS, PaaS, SaaS Explained
+* ✅ 4. Deployment Models – Public, Private, Hybrid
+* ✅ 5. Cloud Providers & Benefits – AWS, Azure, GCP
+* ✅ 6. AWS Global Cloud Architecture – Regions, AZs & Edge Locations
+* ✅ 7. AWS Account Creation – Step-by-Step Signup Process
+* ✅ 8. AWS Class Tools – Core Services Overview
+* ✅ 9. AWS – Security Groups – Virtual Firewall Basics
+* ✅ 10. AWS Interview Theory – Key Q&A Prep for Interviews
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,6 +52,86 @@ Let’s dive into hands-on server creation using various Amazon Machine Images (
 
 📘 Perfect for beginners & those aiming to master EC2 server provisioning across multiple OS platforms!
 
+## ✅ Step 3: Click “Launch Instance”
+Click the **Launch Instance** button to begin setting up your virtual server.
+
+---
+
+## ✅ Step 4: Name Your Instance
+Enter a name like `UInstance-AmazonLinux` for easy identification.
+
+---
+
+## ✅ Step 5: Choose Amazon Machine Image (AMI)
+Select your OS image:
+- Amazon Linux
+- Ubuntu
+- Red Hat
+- Windows Server
+
+---
+
+## ✅ Step 6: Choose Instance Type
+Select **t2.micro** (Free Tier eligible) for basic use cases.
+
+---
+
+## ✅ Step 7: Create or Select Key Pair
+- **New User**: Create new key pair → Download the `.pem` file  
+- **Existing User**: Choose an existing key pair  
+**Important:** Keep your `.pem` file safe!
+
+---
+
+## ✅ Step 8: Configure Network Settings
+- Choose default VPC and subnet  
+- Create or choose a **Security Group**  
+- Allow the following inbound rules:
+  - SSH (22)
+  - HTTP (80)
+  - HTTPS (443)
+
+---
+
+## ✅ Step 9: Add Storage
+Default volume: **8 GB (gp2 SSD)**  
+Increase if needed for your project.
+
+---
+
+## ✅ Step 10: Advanced Settings (Optional)
+- Add a **User Data Script** to install software at boot  
+- Attach **IAM Role** if your instance needs to access AWS services (e.g., S3, CloudWatch)
+
+---
+
+## ✅ Step 11: Review and Launch
+Review all configurations and click **Launch Instance**.
+
+---
+
+## ✅ Step 12: Wait Until Instance is Running
+Go to the **Instances** tab  
+- Instance State: `Running`  
+- Status Check: `2/2 Passed`
+
+---
+
+## ✅ Step 13: Connect to Your Instance
+- Click **Connect** → Use **EC2 Instance Connect**  
+OR  
+- Use terminal:
+```bash
+ssh -i "your-key.pem" ec2-user@<Public-IP-Address>
+✅ Step 14: Update OS Packages (Optional)
+bash
+Copy
+Edit
+# Amazon Linux
+sudo yum update -y
+
+# Ubuntu
+sudo apt update && sudo apt upgrade -y
 
 
 
