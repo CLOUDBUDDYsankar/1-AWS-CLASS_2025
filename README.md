@@ -28,19 +28,17 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
-* WHY CLOUD?
-  * WHAT IS CLOUD?
-    * SERVICE MODELS?
-      * DEPLOYMENT MODELS?
-        * CLOUD PROVIDERS & BENEFITS?
-          * AWS GLOBAL CLOUD ARCHITECTURE?
-            * AWS ACC CREATION?
-              * AWS CLASS TOOLS?
-                * AWS - SECURITY GROUPS?
-                  * AWS INTERVIEW THEORY?
+* 1. WHY CLOUD?
+* 2. WHAT IS CLOUD?
+* 3. SERVICE MODELS?
+* 4. DEPLOYMENT MODELS?
+* 5. CLOUD PROVIDERS & BENEFITS?
+* 6. AWS GLOBAL CLOUD ARCHITECTURE?
+* 7. AWS ACC CREATION?
+* 8. AWS CLASS TOOLS?
+* 9. AWS - SECURITY GROUPS?
+* 10. AWS INTERVIEW THEORY?
 
-
-  
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 # DAY 2: EC2 INSTANCES ( Elastic Compute Cloud )
