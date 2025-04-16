@@ -43,8 +43,25 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
   
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# DAY 2: EC2 INSTANCES 
-Today’s focus is Amazon EC2 (Elastic Compute Cloud)—the backbone of cloud computing! 💻☁️
+# DAY 2: EC2 INSTANCES ( Elastic Compute Cloud )
+Today’s Focus: Amazon EC2 – The Backbone of Cloud Computing! ☁️💻
+Let’s dive into hands-on server creation using various Amazon Machine Images (AMIs) 🔧👇
+
+✅ 1. Amazon Linux AMI – Server Setup
+✅ 2. Ubuntu Linux AMI – Server Setup
+✅ 3. Red Hat Linux AMI – Server Setup
+✅ 4. Windows AMI – Server Setup
+
+📘 Perfect for beginners & those aiming to master EC2 server provisioning across multiple OS platforms!
+
+
+
+
+
+
+
+
+
 
 What is EC2?
 Amazon EC2 provides scalable compute capacity in the cloud, allowing you to launch and manage virtual servers (instances) effortlessly.
