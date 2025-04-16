@@ -28,16 +28,16 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 #  Day 1: Introduction to AWS
-* 1. WHY CLOUD?
-* 2. WHAT IS CLOUD?
-* 3. SERVICE MODELS?
-* 4. DEPLOYMENT MODELS?
-* 5. CLOUD PROVIDERS & BENEFITS?
-* 6. AWS GLOBAL CLOUD ARCHITECTURE?
-* 7. AWS ACC CREATION?
-* 8. AWS CLASS TOOLS?
-* 9. AWS - SECURITY GROUPS?
-* 10. AWS INTERVIEW THEORY?
+✅ 1. Why Cloud? – Benefits & Business Needs
+✅ 2. What is Cloud? – Cloud Computing Basics
+✅ 3. Service Models – IaaS, PaaS, SaaS Explained
+✅ 4. Deployment Models – Public, Private, Hybrid
+✅ 5. Cloud Providers & Benefits – AWS, Azure, GCP
+✅ 6. AWS Global Cloud Architecture – Regions, AZs & Edge Locations
+✅ 7. AWS Account Creation – Step-by-Step Signup Process
+✅ 8. AWS Class Tools – Core Services Overview
+✅ 9. AWS – Security Groups – Virtual Firewall Basics
+✅ 10. AWS Interview Theory – Key Q&A Prep for Interviews
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
