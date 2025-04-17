@@ -14,6 +14,8 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 * Application of AWS in Real-World Scenarios
 * Thorough Interview Preparation with Expert Guidance
 * Detailed Analysis of Industry-Specific Use Cases
+
+
 ![image](https://github.com/user-attachments/assets/f5221b15-75f8-461b-9d76-7e3ab04e2a21)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,7 +29,9 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 - ** IDE  : [ VSC ](https://code.visualstudio.com/download)**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+![image](https://github.com/user-attachments/assets/fc9fd2d5-8beb-4dcf-a6f4-a0f2eea62c15)
+
+
 #  Day 1: Introduction to AWS
 * ✅ 1. Why Cloud? – Benefits & Business Needs
 * ✅ 2. What is Cloud? – Cloud Computing Basics
