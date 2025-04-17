@@ -92,10 +92,37 @@ You will explore IAM, which manages access to AWS resources. You'll learn how to
 
 
 
-# Day 3: EC2 Instances
-You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
+# Day 3: Linux Fundamentals for Cloud
 
-Your First AWS Project: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
+* 1, Core Command Line Skills
+
+* 2, File Permissions & Ownership
+
+* 3, User and Group Administration
+
+* 4, Package Management for Automation
+
+* 5, Process and Job Management
+
+* 6, Disk & Storage Management
+
+* 7, Networking and Cloud Connectivity
+
+* 8, SSH & Remote Access
+
+* 9, Log Management & Troubleshooting
+
+* 10, Automation with Shell Scripting
+
+* 11, Systemd & Service Management
+
+* 12, Cron Jobs and Task Scheduling
+
+*13, Compression, Archiving & File Transfer
+
+* 14, Linux Use Cases in AWS / DevOps
+
+* 15, Interview Questions with Answeres
 
 
 
