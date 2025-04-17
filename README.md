@@ -14,6 +14,7 @@ Each session will deliver comprehensive, real-time knowledge of AWS services, en
 * Application of AWS in Real-World Scenarios
 * Thorough Interview Preparation with Expert Guidance
 * Detailed Analysis of Industry-Specific Use Cases
+![image](https://github.com/user-attachments/assets/f5221b15-75f8-461b-9d76-7e3ab04e2a21)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
