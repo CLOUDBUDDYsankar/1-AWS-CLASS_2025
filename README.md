@@ -57,23 +57,6 @@ Today’s Focus: Amazon EC2 – The Backbone of Cloud Computing! ☁️💻
 * ✅ 4. Windows AMI – Server Setup
   * User name - Administrator
     
-#  What Steps to create an EC2?
-* Step 1: Click “Launch Instance”
-* Step 2: Name / Tags Your Instance
-* Step 3: Choose Amazon Machine Image (AMI)
-* Step 4: Choose Instance Type
-* Step 5: Create or Select Key Pair
-* Step 6: Configure Network Settings
-* Step 7: Add Storage
-* Step 8: Advanced Settings (Optional)
-* Step 9: Select no Instances
-* Step 10: Review and Launch
-
-
-
-⚡
-
-
 
 
 
